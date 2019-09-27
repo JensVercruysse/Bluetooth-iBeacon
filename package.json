@@ -1,0 +1,22 @@
+{
+  "name": "devices",
+  "version": "0.0.0",
+  "description": "Bluetooth iBeacon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JensVercruysse/Bluetooth-iBeacon.git"
+  },
+  "author": "Jens Vercruysse",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JensVercruysse/Bluetooth-iBeacon/issues"
+  },
+  "homepage": "https://github.com/JensVercruysse/Bluetooth-iBeacon#readme",
+  "dependencies": {
+    "@abandonware/bleno": "^0.5.1-1"
+  }
+}
